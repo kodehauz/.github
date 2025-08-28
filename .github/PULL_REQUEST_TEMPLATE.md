@@ -19,3 +19,8 @@ Steps to verify the change locally. (can also be a checklist)
 - [ ] Tests added/updated
 - [ ] Docs updated
 - [ ] I’ve considered performance & security impacts
+- [ ] I have checked for Linting.
+- [ ] My code follows the project's coding standards.
+- [ ] I have tested my changes.
+- [ ] I have updated the documentation.
+
